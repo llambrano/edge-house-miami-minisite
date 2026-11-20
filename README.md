@@ -1,6 +1,8 @@
 # Edge House Miami: minisite preview
 
-A client preview of the Edge House Miami conversion minisite by Miami Pre-construction Advisors, in English, Spanish (`/es/`) and Portuguese (`/pt/`). It will live on its own .miami domain; the full site preview is at https://llambrano.github.io/edge-house-miami/.
+> **Developers: don't deploy this repo.** It is the client preview and every page is marked `noindex, nofollow`, so search engines would ignore the live site. The launch build for https://www.edgehouseresidences.miami/ is in a separate private repo: ask Miami Pre-construction Advisors for access.
+
+A client preview of the Edge House Miami conversion minisite by Miami Pre-construction Advisors, in English, Spanish (`/es/`) and Portuguese (`/pt/`). It will live at https://www.edgehouseresidences.miami/; the full site preview is at https://llambrano.github.io/edge-house-miami/.
 
 - Preview: https://llambrano.github.io/edge-house-miami-minisite/
 - Every page is marked `noindex, nofollow`, so search engines don't list the preview.
